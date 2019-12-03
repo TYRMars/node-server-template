@@ -12,4 +12,4 @@ const server = http.createServer((req, res) => {
 
 server.listen(8000);
 
-console.log('8080,ok');
+console.log('8000,ok');
